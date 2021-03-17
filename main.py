@@ -36,7 +36,7 @@ address_data = soup.find_all(name="address", class_="list-card-addr")
 # extracting property prices from html file
 prices_data = soup.find_all(name="div", class_="list-card-price")
 
-chrome_driver_path = "<path to my chrome driver"
+chrome_driver_path = "<path to my chrome driver>"
 driver = webdriver.Chrome(executable_path=chrome_driver_path)
 
 for i in range(len(links_data)):
