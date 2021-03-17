@@ -10,4 +10,4 @@ Code steps:
 
 - using selenium webdriver to automate chrome web browser to interact with google form and automate filling up form data that was extracted by Beautiful Soup - property address, price per month and web link to property
 
-- my google form - https://docs.google.com/forms/d/1Ox4KrwKBs9qzJ5VzPvQOxnbxj81ZrxeI9jnqD4UZo58/prefill
+- my google form - https://docs.google.com/forms/d/e/1FAIpQLSdHiUC5qypuxGW-924dJsZnfvMa2W-KODb82NWBq6SsRO6zAQ/viewform?usp=sf_link
